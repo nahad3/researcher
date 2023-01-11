@@ -1,6 +1,6 @@
 
 
-# Nauman Ahad
+
 
 <img class="profile-picture" src="linkdn_photo.jpeg" width="100" height="100">
 
@@ -12,6 +12,6 @@ More details on my research can be found on my [Google Scholar](https://scholar.
 
 
 
-## Publications
+
 
 

@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Publications"
+   link: "Publications.idx"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/nahad3/"
  - name: "Resume"

@@ -1,6 +1,10 @@
 
 ### Publications and Preprints
 
+Most recent publications can be found on my  [google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
+
+### Selected Publications 
+
 - N. Ahad, E. Dyer, K. Hengen, Y. Xie, M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection](https://arxiv.org/pdf/2202.04000.pdf)'',  In Revision,  IEEE Transactions on Signal Processing. 
 - N.Ahad, Y. Xie, M. Davenport, "[Data Adaptive Symmetrical CUSUM](https://arxiv.org/pdf/2210.17353)", In Revision, Sequential Analysis
 - N. Ahad, M. Davenport, “ [Semi-supervised Sequence Classification through Change Point Detection](https://ojs.aaai.org/index.php/AAAI/article/view/16814) ”, AAAI, 2021.

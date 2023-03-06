@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/nauman-ahad-211a0aa7"
  - name: "Resume"
    link: "Resume_Nauman.pdf"
  - name: "Google Scholar"

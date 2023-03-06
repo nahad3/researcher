@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [nauman(dot)ahad(at)gmail(dot)com](mailto:nauman.ahad@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> S1175 M, 11th floor
+> Coda, 756 W. Peachtree Street N.W
+> Atlanta, GA 30308
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

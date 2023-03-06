@@ -17,13 +17,13 @@ sass:
 
 nav:
  - name: "Publications"
-   link: "Publications.idx"
+   link: "Publications.md"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/nahad3/"
  - name: "Resume"
    link: "Resume_Nauman.pdf"
- - name: "Google Scholar"
-   link: "https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ"
+ - name: "Contact"
+   link: "contact.md"
 # - name: "About"
 #   link: "/researcher/"
 

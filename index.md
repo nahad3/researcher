@@ -15,10 +15,15 @@ I am also intersted in related problems that improve detecting distributional sh
 More details on my research can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page.
 
 
-#Publications and Preprints
+#Publications and Preprints##
 
-- N. Ahad, E. Dyer, K. Hengen, Y. Xie, M. Davenport, ``Learning Sinkhorn divergences for supervised change point detection'', 2022 arXiv Prepint [arXiv:2202.04000](https://arxiv.org/pdf/2202.04000.pdf).  In Revision IEEE Transactions on Signal Processing. 
-
+- N. Ahad, E. Dyer, K. Hengen, Y. Xie, M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection]((https://arxiv.org/pdf/2202.04000.pdf)'',  In Revision,  IEEE Transactions on Signal Processing. 
+- N.Ahad, Y. Xie, M. Davenport, "[Data Adaptive Symmetrical CUSUM](https://arxiv.org/pdf/2210.17353)", In Revision, Sequential Analysis
+- N. Ahad, M. Davenport, “ [Semi-supervised Sequence Classification through Change Point Detection](https://ojs.aaai.org/index.php/AAAI/article/view/16814) ”, AAAI, 2021.
+- N.Ahad, S. Sonenbum, M. Davenport, S. Sprigle, “[Validating a Wheelchair In-Seat Activity Tracker](https://mdav.ece.gatech.edu/publications/asds-at-2021.pdf)”, Assistive Technology,
+2021.
+- C. Uzray, N.Ahad, M. Abazou, E. Dyer, ”Detecting change points in neural population activity with contrastive metric
+learning”, IEEE Conf. on Neural Engineering (IEEE NER) , 2023
 
 
 

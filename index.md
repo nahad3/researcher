@@ -15,7 +15,7 @@ I am also intersted in related problems that improve detecting distributional sh
 More details on my research can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page.
 
 
-##Publications and Preprints
+#Publications and Preprints
 
 - N. Ahad, E. Dyer, K. Hengen, Y. Xie, M. Davenport, ``Learning Sinkhorn divergences for supervised change point detection'', 2022 arXiv Prepint [arXiv:2202.04000](https://arxiv.org/pdf/2202.04000.pdf).  In Revision IEEE Transactions on Signal Processing. 
 

@@ -17,13 +17,13 @@ sass:
 
 nav:
  - name: "Publications"
-   link: "Publications.md"
+   link: "Publications"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/nahad3/"
  - name: "Resume"
    link: "Resume_Nauman.pdf"
  - name: "Contact"
-   link: "contact.md"
+   link: "contact"
 # - name: "About"
 #   link: "/researcher/"
 

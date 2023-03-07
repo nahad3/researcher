@@ -4,7 +4,7 @@ layout: default
 
 ### Publications and Preprints
 
-Most recent publications can be found on my  [google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
+More details on my publications can be found on my [google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
 
 ### Selected Publications 
 

@@ -6,9 +6,9 @@
 
 I am a Ph.D. student in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu) at Georgia Tech, where I am fortunate to be advised by [Mark A. Davenport](https://mdav.ece.gatech.edu) 
 
-My research work concentrates on machine learning and signal processing, particularly on problems related to change point detection. This work explores how techniques from machine learning such as metric learning can help improve change point detection, and, in return, how can change point detection help improve classification tasks ?
+My research involves working in machine learning and signal processing, particularly on problems related to change point detection. This work explores how techniques from machine learning can help improve change point detection, and in return, how can change point detection help improve machine learning.
 
-I am also intersted in related problems that improve detecting distributional shifts, and how this improvement can benefit model robustness and domain adaptation. I am also interested in  making machine learning models more interpretable.
+I am also intersted in related problems that help  develop robust machine learning by improving ways to detect and adapt to distributional shifts.
 
 
 

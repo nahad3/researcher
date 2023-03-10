@@ -8,7 +8,7 @@ I am a Ph.D. student in the [School of Electrical and Computer Engineering](http
 
 My research involves working in machine learning and signal processing, particularly problems related to change point detection. This work explores how techniques from machine learning can help improve change point detection, and,  in return, how can change point detection help improve machine learning.
 
-I am also intersted in related methods that help machine learning models detect and adapt to distributional shifts.
+I am also interested in related methods that help machine learning models detect and adapt to distributional shifts.
 
 
 

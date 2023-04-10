@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "Publications"
    link: "Publications"
- - name: "Resume"
-   link: "Resume_Nauman.pdf"
+ - name: "CV"
+   link: "Nauman_CV_website.pdf"
  - name: "Contact"
    link: "contact"
 # - name: "About"

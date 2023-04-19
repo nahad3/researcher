@@ -19,5 +19,5 @@ latent dynamics with spatio-temporal super-resolution using selective backpropag
 
 ### Patents
 
-- T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen, N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en),US Patent App. 17/896,747 , 2023
+- T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen, N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en), US Patent App. 17/896,747 , 2023
  

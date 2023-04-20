@@ -17,7 +17,7 @@ learning”, IEEE Conf. on Neural Engineering (IEEE NER) , 2023
 - F. Zhu,A. Sedler, H. Grier, N. Ahad, M. Davenport, M. Kaufman,A. Giovannucci, C.Pandarinath “[Deep inference of
 latent dynamics with spatio-temporal super-resolution using selective backpropagation through time](https://proceedings.neurips.cc/paper/2021/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf) ”, NeurIPS, 2021
 
-### Patents
+### Patent Applications
 
 - T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen, N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en), US Patent App. 17/896,747 , 2023
  

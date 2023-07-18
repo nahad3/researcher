@@ -18,7 +18,7 @@ latent dynamics with spatio-temporal super-resolution using selective backpropag
 - A. D. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. A. Davenport, “[Delta distancing: A lifting approach to localizing items from user comparisons](https://ieeexplore.ieee.org/document/9747038),” IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), 2022
 
 
-## Peer reviewed abstracts
+### Peer reviewed abstracts
 
 -  N.Ahad, N. Nadagouda, E. L. Dyer, and M. A. Davenport, "[Active Learning for Time Instant Classification](https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf)", Data-centric Machine Learning Research Workshop, Int. Conf. on Machine Learning (ICML), 2023
 -  C. Uzray, N.Ahad, M. Abazou,and E. Dyer, ”[Detecting change points in neural population activity with contrastive metric
@@ -27,5 +27,5 @@ learning](https://2022.ccneuro.org/proceedings/0000046.pdf)", Conf. on Cogntive 
 
 ### Patent Applications
 
-- T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen,and N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en), US Patent App. 17/896,747 , 2023
+- T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen,and N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en)", US Patent App. 17/896,747 , 2023
  

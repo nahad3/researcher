@@ -14,7 +14,7 @@ More details on my publications can be found on my [Google scholar](https://scho
 learning](https://ieeexplore.ieee.org/document/10123821)”, IEEE Conf. on Neural Engineering (IEEE NER) , 2023
 - F. Zhu, A. Sedler, H. Grier, N. Ahad, M. Davenport, M. Kaufman,A. Giovannucci,and C.Pandarinath “[Deep inference of
 latent dynamics with spatio-temporal super-resolution using selective backpropagation through time](https://proceedings.neurips.cc/paper/2021/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf) ”, NeurIPS, 2021
-- J. Quesada, L. Sathidevi, R. Liu, N. Ahad, J. Jackson, M. Azabou, J. Xiao, C. Liding, M. Jin, C. Urzay, W. Gray-Roncal, E. Johnson,and E. Dyer, "[MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction]"(https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)", NeurIPS, 2022
+- J. Quesada, L. Sathidevi, R. Liu, N. Ahad, J. Jackson, M. Azabou, J. Xiao, C. Liding, M. Jin, C. Urzay, W. Gray-Roncal, E. Johnson,and E. Dyer, "[MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction](https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)", NeurIPS, 2022
 - A. D. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. A. Davenport, “[Delta distancing: A lifting approach to localizing items from user comparisons](https://ieeexplore.ieee.org/document/9747038),” IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), 2022
 
 

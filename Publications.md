@@ -29,4 +29,4 @@ learning](https://2022.ccneuro.org/proceedings/0000046.pdf)", Conf. on Cogntive 
 ### Patent Applications
 
 - T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen,and N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en)", US Patent App. 17/896,747 , 2023
- 
+- L. Tong, T. Mizoguchi, Z. Chen, W. Cheng, H. Chen, N. Ahad, "[Semi-supervised framework for efficient time-series ordinal classification](https://patents.google.com/patent/US20230252302A1/en)", US Patent App. 18/152,238, 2023

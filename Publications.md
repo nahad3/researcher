@@ -12,7 +12,7 @@ More details on my publications can be found on my [Google scholar](https://scho
 - N.Ahad, S. Sonenbum, M. Davenport,and S. Sprigle, “[Validating a Wheelchair In-Seat Activity Tracker](https://mdav.ece.gatech.edu/publications/asds-at-2021.pdf)”, Assistive Technology, 2021.
 - C. Uzray, N.Ahad, M. Abazou,and E. Dyer, ”[Detecting change points in neural population activity with contrastive metric
 learning](https://ieeexplore.ieee.org/document/10123821)”, IEEE Conf. on Neural Engineering (IEEE NER) , 2023
-- M. Azabou, M. Mendelson, \textbf{N. Ahad}, M. Sorokin, S. Thakoor, C. Urzay, E. Dyer, "[Relax, it doesn't matter how you get there: A new self-supervised approach for multi-timescale behavior analysis](https://arxiv.org/pdf/2303.08811.pdf)'', NeurIPS, 2023
+- M. Azabou, M. Mendelson, \textbf{N. Ahad}, M. Sorokin, S. Thakoor, C. Urzay, E. Dyer, "[Relax, it doesn't matter how you get there: A new self-supervised approach for multi-timescale behavior analysis](https://arxiv.org/pdf/2303.08811.pdf)", NeurIPS, 2023
 - F. Zhu, A. Sedler, H. Grier, N. Ahad, M. Davenport, M. Kaufman,A. Giovannucci,and C.Pandarinath “[Deep inference of
 latent dynamics with spatio-temporal super-resolution using selective backpropagation through time](https://proceedings.neurips.cc/paper/2021/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf)”, NeurIPS, 2021
 - J. Quesada, L. Sathidevi, R. Liu, N. Ahad, J. Jackson, M. Azabou, J. Xiao, C. Liding, M. Jin, C. Urzay, W. Gray-Roncal, E. Johnson,and E. Dyer, "[MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction](https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)", NeurIPS, 2022

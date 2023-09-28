@@ -18,7 +18,6 @@ latent dynamics with spatio-temporal super-resolution using selective backpropag
 - J. Quesada, L. Sathidevi, R. Liu, N. Ahad, J. Jackson, M. Azabou, J. Xiao, C. Liding, M. Jin, C. Urzay, W. Gray-Roncal, E. Johnson,and E. Dyer, "[MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction](https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)", NeurIPS, 2022
 - A. D. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. A. Davenport, “[Delta distancing: A lifting approach to localizing items from user comparisons](https://ieeexplore.ieee.org/document/9747038)”, IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), 2022
 
-
 ### Peer-reviewed Abstracts and Workshop Papers
 
 -  N.Ahad, N. Nadagouda, E. L. Dyer, and M. A. Davenport, "[Active Learning for Time Instant Classification](https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf)", Data-centric Machine Learning Research Workshop, Int. Conf. on Machine Learning (ICML), 2023

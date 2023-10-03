@@ -6,10 +6,10 @@ layout: default
 
 More details on my publications can be found on my [Google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
 
-- N. Ahad, E. Dyer, K. Hengen, Y. Xie,and M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection](https://arxiv.org/pdf/2202.04000.pdf)",  in revision,  *IEEE Transactions on Signal Processing* 
+- N. Ahad, E. Dyer, K. Hengen, Y. Xie, and M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection](https://arxiv.org/pdf/2202.04000.pdf)",  in revision,  *IEEE Transactions on Signal Processing* 
 - N.Ahad, M. Davenport, and Y. Xie, "[Data Adaptive Symmetrical CUSUM](https://arxiv.org/pdf/2210.17353)", to appear in *Sequential Analysis*
-- N. Ahad, M. Davenport, "[Semi-supervised Sequence Classification through Change Point Detection](https://ojs.aaai.org/index.php/AAAI/article/view/16814)", *AAAI*, 2021.
-- N.Ahad, S. Sonenbum, M. Davenport,and S. Sprigle, "[Validating a Wheelchair In-Seat Activity Tracker](https://mdav.ece.gatech.edu/publications/asds-at-2021.pdf)", <em>Assistive Technology, 2021.
+- N. Ahad, M. Davenport, "[Semi-supervised Sequence Classification through Change Point Detection](https://ojs.aaai.org/index.php/AAAI/article/view/16814)", *in Proc. AAAI Conf. on Artificial Intelligenec (AAAI)*, 2021.
+- N.Ahad, S. Sonenbum, M. Davenport,and S. Sprigle, "[Validating a Wheelchair In-Seat Activity Tracker](https://mdav.ece.gatech.edu/publications/asds-at-2021.pdf)", *Assistive Technology*, 34(5), pp. 588-598, 2021.
 - C. Uzray, N.Ahad, M. Abazou,and E. Dyer, "[Detecting change points in neural population activity with contrastive metric
 learning](https://ieeexplore.ieee.org/document/10123821)", *IEEE Conf. on Neural Engineering (IEEE NER)* , 2023
 - M. Azabou, M. Mendelson, N. Ahad, M. Sorokin, S. Thakoor, C. Urzay,and E. Dyer, "[Relax, it doesn't matter how you get there: A new self-supervised approach for multi-timescale behavior analysis](https://arxiv.org/pdf/2303.08811.pdf)", *NeurIPS*, 2023

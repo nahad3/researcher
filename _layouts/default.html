@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', targetLanguage: 'ur'})
+  .appendTo(document.body);
+}
+</script>
+
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta charset="utf-8">
@@ -101,5 +108,10 @@
         </script>
     {% endif %}
 </body>
+    <script type="text/javascript">
+    window.onload = function() {
+  google.translate.TranslateElementInit();
+};
+</script>
 <footer>
 </footer>

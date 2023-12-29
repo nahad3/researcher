@@ -22,8 +22,8 @@ nav:
    link: "Nauman_CV_website.pdf"
  - name: "Contact"
    link: "contact"
- - name: "اُردُو"
-   link: "urdu_test"
+ #- name: "اُردُو"
+ #  link: "urdu_test"
 # - name: "About"
 #   link: "/researcher/"
 
